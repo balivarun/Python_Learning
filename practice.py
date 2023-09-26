@@ -42,20 +42,23 @@
 #print(eval(input("calculator = ")))
 
 
-from turtle import
-color('red', 'yellow')
-begin_fill()
-while True:
-    forward(200)
-    left(170)
-    if abs(pos()) < 1:
-        break
-end_fill()
-done()
+# from turtle import
+# color('red', 'yellow')
+# begin_fill()
+# while True:
+#     forward(200)
+#     left(170)
+#     if abs(pos()) < 1:
+#         break
+# end_fill()
+# done()
 
 #hello world
 #name="aditya kaushal"
 #age=25
+
+s='Hello World'
+print(s.lower())
 
 
 
